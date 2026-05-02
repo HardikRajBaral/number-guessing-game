@@ -2,7 +2,7 @@
 
 A fun command-line number guessing game built with Node.js!
 
-**Repository:** [https://github.com/HardikRajBaral/number-guessing-game](https://github.com/HardikRajBaral/number-guessing-game)
+**Project URL:** [https://roadmap.sh/projects/number-guessing-game](https://roadmap.sh/projects/number-guessing-game)
 
 ## Description
 
