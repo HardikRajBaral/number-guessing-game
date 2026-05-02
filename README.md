@@ -2,6 +2,8 @@
 
 A fun command-line number guessing game built with Node.js!
 
+**Repository:** [https://github.com/HardikRajBaral/number-guessing-game](https://github.com/HardikRajBaral/number-guessing-game)
+
 ## Description
 
 The computer thinks of a number between 1 and 100, and you have to guess it! The game offers three difficulty levels with varying numbers of lives (attempts):
